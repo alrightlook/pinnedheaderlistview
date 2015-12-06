@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alpha_item.xml",
+        "source": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\src\\main\\res\\layout\\alpha_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_received_list_view.xml",
+        "source": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\src\\main\\res\\layout\\card_received_list_view.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_received_list_view_header.xml",
+        "source": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\src\\main\\res\\layout\\card_received_list_view_header.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

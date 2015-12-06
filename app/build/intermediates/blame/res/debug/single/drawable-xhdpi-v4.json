@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_move_up.png",
+        "source": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_move_up.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_move_down.png",
+        "source": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_move_down.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\StudioProjects\\PinnedHeaderPullToRefreshListView\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
